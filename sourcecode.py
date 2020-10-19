@@ -9,11 +9,11 @@ rilke4 = "I want to be with those who know secret things or else alone. -Rilke"
 
 rilke5 = "Love consists in this, that two solitudes that meet, protect, and greet each other. -Rilke"
 
-rilke6 = "Perhaps all the dragons of our lives are princesses who are only waiting to see us once beautiful and brave. -Rilke"
+rilke6 = "Perhaps all the dragons in our lives are princesses who are only waiting to see us once beautiful and brave. -Rilke"
 
 rilke7 = "All the soarings of my mind begin in my blood. -Rilke"
 
-rilke8 = "Perhaps everything terrible is in its deepest being something helpless that wants help from us. -Rilke"
+rilke8 = "Perhaps every terror is, in its deepest essence, something that needs our recognition or help. -Rilke"
 
 rilke9 = "Everything is blooming most recklessly; if it were voices instead of colors, there would be an unbelievable shrieking into the heart of the night -Rilke"
 
