@@ -390,12 +390,10 @@ listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
          rilke100, rilke101
          ]
 
-import time
-
 import random
-
+import time
+import sys
 import tweepy
-import credentials
 import os
 from os import environ
 
@@ -419,8 +417,8 @@ def create_tweet():
 def tweet_quote():
     interval = 60*60*24
 
-    auth = tweepy.OAuthHandler(consumer_key, consumer_secret_key)
-    auth.set_access_token(access_token, access_token_secret)
+    auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET_KEY)
+    auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
     api = tweepy.API(auth)
 
 
