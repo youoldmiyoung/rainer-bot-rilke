@@ -396,11 +396,13 @@ import random
 
 import tweepy
 import credentials
+import os
+from os import environ
 
-consumer_key = credentials.API_KEY
-consumer_secret_key = credentials.API_SECRET_KEY
-access_token = credentials.ACCESS_TOKEN
-access_token_secret = credentials.ACCESS_TOKEN_SECRET
+CONSUMER_KEY = environ['CONSUMER_KEY']
+CONSUMER_SECRET_KEY = environ['CONSUMER_SECRET_KEY']
+ACCESS_TOKEN = environ['ACCESS_TOKEN']
+ACCESS_TOKEN_SECRET = environ['ACCESS_TOKEN_SECRET']
 
 
 def get_random_quote():
