@@ -8,5 +8,12 @@ def home():
     bot.tweet_quote()
     return "Tweeting a Rilke Quote..."
 
+@app.route("/")
+def fofo():
+    bot.follow_followers(api)
+    return "Following back..."
+
+
+
 
 app.run(host= '0.0.0.0', port=environ.get('PORT'))
