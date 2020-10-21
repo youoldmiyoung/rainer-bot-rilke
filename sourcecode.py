@@ -377,6 +377,75 @@ all they can say.
 
 -Rilke"""
 
+rilke102 = "Are there relations of the heart that embrace what is most cruel for the sake of wholeness? For the world is only world when everything is included. -Rilke"
+
+rilke103 = """You said live out loud, and die you said lightly,
+and over and over again you said be. 
+
+And what they have stammered ever since
+are fragments
+of your ancient name. 
+
+-Rilke"""
+
+rilke104 = "The next era has no right to judge anything if it lacks the ability to contemplate the past without hatred or envy. It is fortunate if something of the ancestors lives on in it and continues to be loved and protected; only then does the past become fruitful and effective. -Rilke"
+
+rilke105 = """So I am sometimes like a tree
+rustling over a gravesite
+and making real the dream
+of the one its living roots
+embrace: 
+
+a dream once lost
+among sorrows and songs.
+
+-Rilke"""
+
+rilke106 = """How small is what we wrestle with,
+and what wrestles with us, how immense.
+
+If we could be overcome, as things are,
+in a great storm,
+we would grow vast and need no names.
+
+-Rilke"""
+
+rilke107 = "Humanity has been terrified and beset by dread; but is there anything noble and gracious that has not, from time to time, worn the mask of dread? -Rilke"
+
+rilke108 = """Sometimes a smile comes toward us,
+and, like a blessing, shines and is gone
+in this dizzying parade with no destination.
+
+-Rilke"""
+
+rilke109 = "Never, not for a single day, do we let the space before us be so unbounded that the blooming of one flower is forever. -Rilke"
+
+rilke110 = """All this hurrying
+soon will be over.
+Only when we tarry
+do we touch the holy.
+
+Young ones, don’t waste your courage
+racing so fast,
+flying so high.
+
+See how all things are at rest—
+darkness and morning light,
+blossom and book.
+
+-Rilke"""
+
+rilke111 = """We set the pace.
+But this press of time—
+take it as a little thing
+next to what endures.
+
+All this hurrying
+soon will be over.
+Only when we tarry
+do we touch the holy.
+
+-Rilke"""
 
 listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
          rilke10, rilke11, rilke12, rilke13, rilke14, rilke15, rilke16, rilke17, rilke18, rilke19,
@@ -388,7 +457,8 @@ listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
          rilke70, rilke71, rilke72, rilke73, rilke74, rilke75, rilke76, rilke77, rilke78, rilke79,
          rilke80, rilke81, rilke82, rilke83, rilke84, rilke85, rilke86, rilke87, rilke88, rilke89,
          rilke90, rilke91, rilke92, rilke93, rilke94, rilke95, rilke96, rilke97, rilke98, rilke99,
-         rilke100, rilke101
+         rilke100, rilke101, rilke102, rilke103, rilke104, rilke105, rilke106, rilke107, rilke108,
+	     rilke109, rilke110, rilke111
          ]
 
 import random
