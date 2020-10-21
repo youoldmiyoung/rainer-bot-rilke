@@ -447,6 +447,32 @@ do we touch the holy.
 
 -Rilke"""
 
+rilke112 = """Only as a child am I awake
+and able to trust
+that in every fear and every night
+I will behold you again.
+
+However often I get lost,
+however far my thinking strays,
+I know you will be here,
+right here, untouched by time.
+
+-Rilke"""
+
+rilke113 = """To me it is as if I were at once
+infant, boy, man and more.
+I feel that only as it circles
+is abundance found.
+
+I thank you, deep power
+that works me ever more lightly
+in ways I can’t make out.
+The day’s labor grows simple now,
+and like a holy face
+held in my dark hands.
+
+-Rilke"""
+
 listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
          rilke10, rilke11, rilke12, rilke13, rilke14, rilke15, rilke16, rilke17, rilke18, rilke19,
          rilke20, rilke21, rilke22, rilke23, rilke24, rilke25, rilke26, rilke27, rilke28, rilke29,
@@ -458,7 +484,7 @@ listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
          rilke80, rilke81, rilke82, rilke83, rilke84, rilke85, rilke86, rilke87, rilke88, rilke89,
          rilke90, rilke91, rilke92, rilke93, rilke94, rilke95, rilke96, rilke97, rilke98, rilke99,
          rilke100, rilke101, rilke102, rilke103, rilke104, rilke105, rilke106, rilke107, rilke108,
-	     rilke109, rilke110, rilke111
+	     rilke109, rilke110, rilke111, rilke112, rilke113
          ]
 
 import random
