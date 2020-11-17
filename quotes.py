@@ -517,6 +517,66 @@ They don’t know that somewhere
 wind is blowing through a field of flowers.
 -Rilke"""
 
+rilke120 = """[Eurydice] was deep within herself, and her having died
+was a fullness she carried.
+Like a fruit, she was filled with the sweetness
+and darkness of her huge death,
+still so new she could hardly grasp it.
+-Rilke"""
+
+rilke121 = """Eurydice was no longer the fair beauty
+celebrated in Orpheus' singing,
+...no more the property of any man.
+
+She was already unbound, like loosened hair,
+surrendered like falling rain,
+and generously offered to all creation.
+She was already root.
+
+-Rilke"""
+
+rilke122 = "The more patient, quiet, and open we are in our sadnesses, the more deeply and unerringly a new revelation can enter us, and the more we can make it our own. Later on when it manifests in our response to another person—we will feel it as belonging to our innermost being. -Rilke"
+
+rilke123 = "Doubt can serve you well, if you train it. It must become a way of knowing, a good critic. Every time doubt wants to spoil something for you, ask why it finds something ugly and demand proofs. -Rilke"
+
+rilke124 = "Don’t give in to doubt, demand reasons and be persistent and attentive every single time, and the day will come when, instead of a destroyer, he will become one of your best servants—perhaps one of the most intelligent of those who help you build your life. -Rilke"
+
+rilke125 = "You must only take care to eliminate from the tone you use all consternation and reproachfulness. My friend, this is important: fight harmlessly. -Rilke" 
+
+rilke126 = """Just give me a little more time!
+I want to love the things
+as no one has thought to love them,
+until they’re worthy of you and real.
+-Rilke"""
+
+rilke127 = """Do you still not know how little endures?
+Fling the nothing you are grasping
+out into the spaces we breathe.
+Maybe the birds
+will feel in their flight
+how the air has expanded.
+-Rilke"""
+
+rilke128 = """Memory is not enough… 
+I do not recollect. What I am
+is alive in me because of you. I do not reinvent you
+at sadly cooled-off places you have left behind.
+Even your absence is filled
+with your warmth and is more real
+than your not-existing.
+-Rilke"""
+
+rilke129 = """Even your absence is filled
+with your warmth and is more real
+than your not-existing. Longing often meanders
+into vagueness. Why should I throw myself away
+when something in you may be
+touching me, very lightly, like moonlight
+on a window seat.
+-Rilke"""
+
+rilke130 = "What you say of your life—that its most painful event was also its greatest—is the secret theme of these pages. It is the conviction that what is greatest in our existence, what makes it precious beyond words, has the modesty to use sorrow in order to penetrate our soul. -Rilke"
+
 
 listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
          rilke10, rilke11, rilke12, rilke13, rilke14, rilke15, rilke16, rilke17, rilke18, rilke19,
@@ -529,5 +589,6 @@ listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
          rilke80, rilke81, rilke82, rilke83, rilke84, rilke85, rilke86, rilke87, rilke88, rilke89,
          rilke90, rilke91, rilke92, rilke93, rilke94, rilke95, rilke96, rilke97, rilke98, rilke99,
          rilke100, rilke101, rilke102, rilke103, rilke104, rilke105, rilke106, rilke107, rilke108,
-	     rilke109, rilke110, rilke111, rilke112, rilke113, rilke114, rilke115, rilke116, rilke117, rilke118, rilke119
+	     rilke109, rilke110, rilke111, rilke112, rilke113, rilke114, rilke115, rilke116, rilke117, rilke118, rilke119,rilke120, rilke121, rilke122, rilke123, rilke124, rilke125, rilke126, rilke127, rilke128, rilke129,
+         rilke130,
          ]
