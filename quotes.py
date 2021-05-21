@@ -181,7 +181,7 @@ I forgot my habit of grasping every look
 that fell on me: looks, opinions, scrutiny.
 -Rilke"""
 
-rilke58 = "Therefore ove your solitude and bear the pain of it without self-pity. The distance you feel from those around you should trouble you no more than your distance from the farthest stars. Be glad that you are growing and gentle with those who stay behind. -Rilke"
+rilke58 = "Therefore love your solitude and bear the pain of it without self-pity. The distance you feel from those around you should trouble you no more than your distance from the farthest stars. Be glad that you are growing and gentle with those who stay behind. -Rilke"
 
 rilke59 = "Be glad that you are growing, and realize that you cannot take anyone with you; be gentle with those who stay behind. Be confident and calm before them, and don’t torment them with your doubts or distress them with your ambitions which they wouldn’t be able to comprehend. -Rilke"
 
