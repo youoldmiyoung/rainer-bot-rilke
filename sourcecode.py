@@ -14,8 +14,8 @@ ACCESS_TOKEN = environ['ACCESS_TOKEN']
 ACCESS_TOKEN_SECRET = environ['ACCESS_TOKEN_SECRET']
 
 def get_random_quote():
-    # randomQuote = random.choice(listR)
-    # return randomQuote
+    randomQuote = random.choice(listR)
+    return randomQuote
     x = random.randrange(1, 130)
     randomQuote = listR[rilke(x)]
 
