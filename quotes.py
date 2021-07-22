@@ -577,15 +577,79 @@ on a window seat.
 
 rilke130 = "What you say of your life—that its most painful event was also its greatest—is the secret theme of these pages. It is the conviction that what is greatest in our existence, what makes it precious beyond words, has the modesty to use sorrow in order to penetrate our soul. -Rilke"
 
-rilke131
-rilke132
-rilke133
-rilke134
-rilke135
-rilke136
-rilke137
-rilke138
-rilke139
+rilke131 = """And God said to me, Go forth: 
+
+For I am king of time.
+But to you I am only the shadowy one
+who knows with you your loneliness
+and sees through your eyes.
+He sees through my eyes
+in all the ages.
+
+-Rilke"""
+
+rilke132 = """Afternoon, Before Beethoven’s Missa Solemnis 
+
+"Let yourself not be misled by the notes
+that fall to you from the generous wind.
+
+Wait watchfully. Hands that are eternal
+may come to play upon your strings."
+
+-Rilke"""
+
+rilke133 = """"I am learning to see something new. In addition to sky and land, a third thing has equal significance: the air. 
+
+There are many things that seem like islands—alone, bright, caressed on all sides by ever-moving air that makes their forms stand out so clearly."
+
+-Rilke"""
+
+rilke134 = """"And God Said to Me, Write:
+
+Leave the cruelty to kings. 
+Without that angel barring the way to love
+there would be no bridge for me
+into time."
+
+-Rilke"""
+
+rilke135 = """"Those who create are like you, God.
+They long for the eternal.
+Carving, they say: Stone, be forever!
+And that means: be yours."
+
+-Rilke"""
+
+rilke136 = """"Those who create are like you, God.
+They long for the eternal.
+
+Lovers also gather your inheritance.
+They are the poets of one brief hour.
+They kiss an expressionless mouth into a smile
+as if creating it anew, more beautiful."
+
+-Rilke"""
+
+rilke137 = """"You too will find your strength.
+We who must live in this time
+cannot imagine how strong you will become—
+how strange, how surprising,
+yet familiar as yesterday."
+
+-Rilke"""
+
+rilke138 = """The God That Is Coming
+
+"We will sense you
+like a fragrance from a nearby garden
+and watch you move through our days
+like a shaft of sunlight in a sickroom.
+
+We are cradled close in your hands—
+and lavishly flung forth."
+-Rilke""" 
+
+"""rilke139
 rilke140
 rilke141
 rilke142
@@ -595,7 +659,7 @@ rilke145
 rilke146
 rilke147
 rilke148
-rilke149
+rilke149"""
 
 
 listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
@@ -611,5 +675,5 @@ listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
          rilke100, rilke101, rilke102, rilke103, rilke104, rilke105, rilke106, rilke107, rilke108,
 	     rilke109, rilke110, rilke111, rilke112, rilke113, rilke114, rilke115, rilke116, rilke117, rilke118, rilke119,rilke120, rilke121, rilke122, rilke123, rilke124, rilke125, rilke126, rilke127, rilke128, rilke129,
          rilke130,rilke131,
-rilke132, rilke133,rilke134,rilke135,rilke136,rilke137,rilke138,rilke139,rilke140,rilke141,rilke142,rilke143,rilke144,rilke145,rilke146,rilke147,rilke148,rilke149,
+rilke132, rilke133,rilke134,rilke135,rilke136,rilke137,rilke138, """rilke139,rilke140,rilke141,rilke142,rilke143,rilke144,rilke145,rilke146,rilke147,rilke148,rilke149,"""
          ]
