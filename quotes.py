@@ -577,6 +577,26 @@ on a window seat.
 
 rilke130 = "What you say of your life—that its most painful event was also its greatest—is the secret theme of these pages. It is the conviction that what is greatest in our existence, what makes it precious beyond words, has the modesty to use sorrow in order to penetrate our soul. -Rilke"
 
+rilke131
+rilke132
+rilke133
+rilke134
+rilke135
+rilke136
+rilke137
+rilke138
+rilke139
+rilke140
+rilke141
+rilke142
+rilke143
+rilke144
+rilke145
+rilke146
+rilke147
+rilke148
+rilke149
+
 
 listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
          rilke10, rilke11, rilke12, rilke13, rilke14, rilke15, rilke16, rilke17, rilke18, rilke19,
@@ -590,5 +610,6 @@ listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
          rilke90, rilke91, rilke92, rilke93, rilke94, rilke95, rilke96, rilke97, rilke98, rilke99,
          rilke100, rilke101, rilke102, rilke103, rilke104, rilke105, rilke106, rilke107, rilke108,
 	     rilke109, rilke110, rilke111, rilke112, rilke113, rilke114, rilke115, rilke116, rilke117, rilke118, rilke119,rilke120, rilke121, rilke122, rilke123, rilke124, rilke125, rilke126, rilke127, rilke128, rilke129,
-         rilke130,
+         rilke130,rilke131,
+rilke132, rilke133,rilke134,rilke135,rilke136,rilke137,rilke138,rilke139,rilke140,rilke141,rilke142,rilke143,rilke144,rilke145,rilke146,rilke147,rilke148,rilke149,
          ]
