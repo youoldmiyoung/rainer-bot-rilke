@@ -598,43 +598,42 @@ may come to play upon your strings."
 
 -Rilke"""
 
-rilke133 = """"I am learning to see something new. In addition to sky and land, a third thing has equal significance: the air. 
+rilke133 = """I am learning to see something new. In addition to sky and land, a third thing has equal significance: the air. 
 
-There are many things that seem like islands—alone, bright, caressed on all sides by ever-moving air that makes their forms stand out so clearly."
+There are many things that seem like islands—alone, bright, caressed on all sides by ever-moving air that makes their forms stand out so clearly.
 
 -Rilke"""
 
-rilke134 = """"And God Said to Me, Write:
+rilke134 = """And God Said to Me, Write:
 
 Leave the cruelty to kings. 
 Without that angel barring the way to love
 there would be no bridge for me
-into time."
-
+into time.
 -Rilke"""
 
-rilke135 = """"Those who create are like you, God.
+rilke135 = """Those who create are like you, God.
 They long for the eternal.
 Carving, they say: Stone, be forever!
-And that means: be yours."
+And that means: be yours.
 
 -Rilke"""
 
-rilke136 = """"Those who create are like you, God.
+rilke136 = """Those who create are like you, God.
 They long for the eternal.
 
 Lovers also gather your inheritance.
 They are the poets of one brief hour.
 They kiss an expressionless mouth into a smile
-as if creating it anew, more beautiful."
+as if creating it anew, more beautiful.
 
 -Rilke"""
 
-rilke137 = """"You too will find your strength.
+rilke137 = """You too will find your strength.
 We who must live in this time
 cannot imagine how strong you will become—
 how strange, how surprising,
-yet familiar as yesterday."
+yet familiar as yesterday.
 
 -Rilke"""
 
@@ -647,6 +646,7 @@ like a shaft of sunlight in a sickroom.
 
 We are cradled close in your hands—
 and lavishly flung forth."
+
 -Rilke""" 
 
 """rilke139
