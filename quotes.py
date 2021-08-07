@@ -649,17 +649,7 @@ and lavishly flung forth."
 
 -Rilke""" 
 
-"""rilke139
-rilke140
-rilke141
-rilke142
-rilke143
-rilke144
-rilke145
-rilke146
-rilke147
-rilke148
-rilke149"""
+
 
 
 listR = [rilke1, rilke2, rilke3, rilke4, rilke5, rilke6, rilke7, rilke8, rilke9,
